@@ -1,0 +1,13 @@
+name = "MezzConfig"
+filename = "mezz_config-26.3-neoforge-0.7.1-standalone.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/Y5gRtxs4/mezz_config-26.3-neoforge-0.7.1-standalone.jar"
+hash-format = "sha512"
+hash = "27451362c4a04456955e94b1d3cafb115b937be965c0edc917f7124e7ea2158cf3fcd2072670d64693e3fa4b1670bec1f4e955dfda42fedeb98147798ead8161"
+
+[update]
+[update.modrinth]
+mod-id = "7tEfOcA7"
+version = "Y5gRtxs4"

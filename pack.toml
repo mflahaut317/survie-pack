@@ -1,0 +1,13 @@
+name = "Survie"
+author = "mflahaut317"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b38c81b366574cc47523dfab970020cffd22ce9d8327d7badf9c14023db034b9"
+
+[versions]
+minecraft = "26.3"
+neoforge = "26.3.0.115"

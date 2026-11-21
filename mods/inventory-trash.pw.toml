@@ -1,0 +1,13 @@
+name = "Inventory Trash"
+filename = "inventorytrash-1.1.0_neoforge_26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uwlSO7sJ/versions/QJcs7ood/inventorytrash-1.1.0_neoforge_26.3.jar"
+hash-format = "sha512"
+hash = "c4860353329a2cd097a9d8133b252fcd0a51a325dec350a9814695b898a725af6e12780574b02e3e0e1365454a1da05982d82c86a2c247435a8ecb9f5f0188c0"
+
+[update]
+[update.modrinth]
+mod-id = "uwlSO7sJ"
+version = "QJcs7ood"

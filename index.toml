@@ -6,6 +6,11 @@ hash = "775261a08a13bd4c273ad0e5b1a28842a44fbe9d18a0aa9e5ea049b9fa156595"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "d49a27d42b2f94bb98a606d13078da11907678a587419e9d19dbf82c53fa51da"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f655384fb760fe063ed9456e654c4533d63f37f3c8a99300b787a2427f70b702"
 metafile = true
@@ -46,11 +51,6 @@ hash = "eb02cfc3e0992b64cebf74dc2bfb3e129ccb4440c03980f31a1c400955f682bb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-trash.pw.toml"
-hash = "3fd237f50e1e29fc4c31a5add32964c24bd84d1dd6737b174696d1a43442b695"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "14285d8951df544d2814ec798d06ed17d451d3bf09f810db838f431fc55747d4"
 metafile = true
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "6bd9e290d673576265fcd006e6d059d0abc0857eeef3ccf38769a4b20a36e0c8"
 metafile = true
 
 [[files]]

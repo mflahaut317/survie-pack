@@ -46,6 +46,11 @@ hash = "3fd237f50e1e29fc4c31a5add32964c24bd84d1dd6737b174696d1a43442b695"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "14285d8951df544d2814ec798d06ed17d451d3bf09f810db838f431fc55747d4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "dad3f58230c63e8ca85338bb53388b6308ca1bcceafeca5c1e357811d847bde6"
 metafile = true
@@ -66,6 +71,11 @@ hash = "942b1cbf71f90fc2960e070bc67e991dfe68c7dda60b9cd3a3be1913add52410"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "80a9a84d1a2af54f832dae360f4b30d6f518c8c5528dff793de1917f4c2e5910"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
 metafile = true
@@ -78,4 +88,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d9cd32f22f5165ae419c1590049457e8b9dc919ec59b2c6f25e87598b969f353"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "02b6392267cb9899a653543f25622f8a2e3f255d023393ad13df0913a9d6c481"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ab8558d26be35ba49b4d86a55f74ab7e3b872aa49a34c6224066a3f35d61e1ca"
 metafile = true

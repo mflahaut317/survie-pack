@@ -16,6 +16,11 @@ hash = "2c34ba0de280cf2fa1f1da3f4f4e08923a72698ac1d6f5f9ea4b19f437784984"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3f3e528701cf893977b383ab7a2c4a9d9bb5c244be0c85b0af53b70a5f47f8b0"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "f8e2132c46d1f1253285ba4ebf293db712b76cb7f882ce33d7ef73fa11f48c80"
 metafile = true
@@ -36,8 +41,8 @@ hash = "b105da3f52d40a53b9cdb6e3ff973fa5ceac6c653544f10aacbfd446f55f576a"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "3642d8685a238fef46297f915475f2412d997efd93012126e9e0cf3ecddadaa4"
+file = "mods/inventory-sorting.pw.toml"
+hash = "eb02cfc3e0992b64cebf74dc2bfb3e129ccb4440c03980f31a1c400955f682bb"
 metafile = true
 
 [[files]]
@@ -56,11 +61,6 @@ hash = "dad3f58230c63e8ca85338bb53388b6308ca1bcceafeca5c1e357811d847bde6"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "97611cc97e0a2e54bfad22dd72f1b38fa2a205cd338d8f509fb88dff3fa4452b"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "4214d1203f0db3a9206c4140f057fb2d4feff282d43efcfe1fb4240fc6b8c2f0"
 metafile = true
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "942b1cbf71f90fc2960e070bc67e991dfe68c7dda60b9cd3a3be1913add52410"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "947c0322f9c5c6362c6010b1ba539681b2dd806bef2505e9fcd7bf45b7b8734a"
 metafile = true
 
 [[files]]

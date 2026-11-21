@@ -76,6 +76,11 @@ hash = "947c0322f9c5c6362c6010b1ba539681b2dd806bef2505e9fcd7bf45b7b8734a"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "44486135ddafb72186376f42ab79ebf15ad81a6254baea99247aa88c4baf887d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8dcbea441be0ced7185839d9f0b12425bf503fd7631a7ddee5b45473dc958aff"
 metafile = true

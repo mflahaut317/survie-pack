@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "775261a08a13bd4c273ad0e5b1a28842a44fbe9d18a0aa9e5ea049b9fa156595"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "f655384fb760fe063ed9456e654c4533d63f37f3c8a99300b787a2427f70b702"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2c34ba0de280cf2fa1f1da3f4f4e08923a72698ac1d6f5f9ea4b19f437784984"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f8e2132c46d1f1253285ba4ebf293db712b76cb7f882ce33d7ef73fa11f48c80"
 metafile = true
 
 [[files]]
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "942b1cbf71f90fc2960e070bc67e991dfe68c7dda60b9cd3a3be1913add52410"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
 metafile = true
 
 [[files]]

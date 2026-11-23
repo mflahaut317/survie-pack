@@ -16,6 +16,11 @@ hash = "f655384fb760fe063ed9456e654c4533d63f37f3c8a99300b787a2427f70b702"
 metafile = true
 
 [[files]]
+file = "mods/chantier.pw.toml"
+hash = "19e48f397f3cb4181120b11de3182c334dd7c1e0997a6f373ecb494a39e0a4b6"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2c34ba0de280cf2fa1f1da3f4f4e08923a72698ac1d6f5f9ea4b19f437784984"
 metafile = true

@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chantier.pw.toml"
-hash = "e3c4765bf99cc06fd5546ce34b1f34cc9a30cdb2e8b416b25ca374e6b7972ab9"
+hash = "3ac7a99fe0f0f96d8675d7b8f64d13c587355df471db6b9fb07f5748001ed22a"
 metafile = true
 
 [[files]]

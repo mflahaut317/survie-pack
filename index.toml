@@ -41,6 +41,11 @@ hash = "c1dc85ba25b7ab3cb778e589b5336edb6202d75fcb4d82e93fbe2ccb5d472df8"
 metafile = true
 
 [[files]]
+file = "mods/durabilite.pw.toml"
+hash = "dfaccbb721877831e705b8858e8f4420e008fd6fdf4c8f404f785f18f233be26"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true

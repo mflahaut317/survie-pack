@@ -1,0 +1,8 @@
+name = "Durabilite"
+filename = "durabilite-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/durabilite-1.0.0.jar"
+hash-format = "sha256"
+hash = "bc4cfe8a3898e3491b187f1909ebea00fd7a497c97c2b8ab715c6be47c18b5d3"

@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/tableau.pw.toml"
-hash = "b148ed9bdd0aece0969b66be97e92618db13b3e3505a240655050c8dd3c7b470"
+hash = "6d6d4d94deccd9935f379e672986baffb69bdbf9a4a02540bce1c51cbebb4724"
 metafile = true
 
 [[files]]

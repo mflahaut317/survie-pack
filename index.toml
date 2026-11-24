@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chantier.pw.toml"
-hash = "1d20ce366db659009fd1781629a72922d2abf5fc66e1a3549116a0610b989605"
+hash = "60fd3f1a6ff69eb4724ae905b50b4e2cb92e8216eb85c8310ef411c381faf39e"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8dcbea441be0ced7185839d9f0b12425bf503fd7631a7ddee5b45473dc958aff"
+metafile = true
+
+[[files]]
+file = "mods/souvenirs.pw.toml"
+hash = "e6a8ebb3c1f86ad5a91893e957515ecef1d6ad9d5c805de374e8c412a7d67226"
 metafile = true
 
 [[files]]

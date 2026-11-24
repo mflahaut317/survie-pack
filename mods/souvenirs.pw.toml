@@ -1,0 +1,8 @@
+name = "Souvenirs"
+filename = "souvenirs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/souvenirs-1.0.0.jar"
+hash-format = "sha256"
+hash = "ce599406e3c90e069561ca9422cb9501742ec567e90e7aea30a3ca117fc5ef09"

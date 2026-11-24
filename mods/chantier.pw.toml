@@ -1,8 +1,8 @@
 name = "Chantier"
-filename = "chantier-2.15.0.jar"
+filename = "chantier-2.15.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/chantier-2.15.0.jar"
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/chantier-2.15.2.jar"
 hash-format = "sha256"
-hash = "813d8b6ed7e3e9ff1cc22823242ba6290aefef144502354d1f9d75bbcfc67f74"
+hash = "6c4a7703df621ea6e12e40b047ed6c23a22fde886ffe30ad9c98f852e9157cd5"

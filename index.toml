@@ -11,6 +11,11 @@ hash = "d49a27d42b2f94bb98a606d13078da11907678a587419e9d19dbf82c53fa51da"
 metafile = true
 
 [[files]]
+file = "mods/buildprint.pw.toml"
+hash = "afc27b75c859a0b9225a036fd69939ca2f575769ef98a3ed3a4a54921c1e4469"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f655384fb760fe063ed9456e654c4533d63f37f3c8a99300b787a2427f70b702"
 metafile = true

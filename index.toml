@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chantier.pw.toml"
-hash = "60fd3f1a6ff69eb4724ae905b50b4e2cb92e8216eb85c8310ef411c381faf39e"
+hash = "a499ad84ebabfb4915d7ff418b05b8f93853c5b96debfe01e9e8ed8a448a9300"
 metafile = true
 
 [[files]]
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
+metafile = true
+
+[[files]]
+file = "mods/tableau.pw.toml"
+hash = "b148ed9bdd0aece0969b66be97e92618db13b3e3505a240655050c8dd3c7b470"
 metafile = true
 
 [[files]]

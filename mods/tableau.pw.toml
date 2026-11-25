@@ -1,8 +1,8 @@
 name = "Tableau"
-filename = "tableau-1.1.0.jar"
+filename = "tableau-1.1.1.jar"
 side = "server"
 
 [download]
-url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/tableau-1.1.0.jar"
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/tableau-1.1.1.jar"
 hash-format = "sha256"
-hash = "71a53ecd7facd2a05164523aa2cc447c7b75fe06287a7fb9645a35083d0d1913"
+hash = "732e536ccff3cd3602904c59e6b920b6c1b1373654ff1b5152b8efdfde2642e9"

@@ -121,6 +121,11 @@ hash = "31dda5a0494b8b65549b03b68c790e617075c8438863ddaaa0977dd317347157"
 metafile = true
 
 [[files]]
+file = "mods/visage.pw.toml"
+hash = "4068ce06fd13de39b7b861009188e755c484cca613594d125a3f280f4957ff1d"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "d7a95cfa118da64df0a18a8f6c0ea245f13f58c122632022d5a202da0fb9705f"
 metafile = true

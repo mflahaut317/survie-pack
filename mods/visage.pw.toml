@@ -1,0 +1,8 @@
+name = "Visage"
+filename = "visage-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/visage-1.0.1.jar"
+hash-format = "sha256"
+hash = "157a77f368b68409d82e92c55aea2139a49ca15bbeea388ff709dc379b61063c"

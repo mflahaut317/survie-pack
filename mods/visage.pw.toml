@@ -1,8 +1,8 @@
 name = "Visage"
-filename = "visage-1.1.1.jar"
+filename = "visage-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/visage-1.1.1.jar"
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/visage-1.2.0.jar"
 hash-format = "sha256"
-hash = "8ab9e2e34ec4585c0035c65cce089d293a9836d23a2e3eb90b441d50478ec30c"
+hash = "c37e87bfa034ad56309786fdea47a0fda127df10688a6ecc7077bc329b0cfea2"

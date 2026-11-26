@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/visage.pw.toml"
-hash = "a17c8cec1a0893bebd6f54f39e1a3a764583619842826e413ad069b8f10e10ed"
+hash = "fe8161ae162f186a4fd0937e465313682c9bb7937ccc209e7c5bb5823ef1c141"
 metafile = true
 
 [[files]]

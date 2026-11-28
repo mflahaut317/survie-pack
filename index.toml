@@ -46,6 +46,11 @@ hash = "dfaccbb721877831e705b8858e8f4420e008fd6fdf4c8f404f785f18f233be26"
 metafile = true
 
 [[files]]
+file = "mods/evenements.pw.toml"
+hash = "930f7268a22915a5da1cb0e45e737d5d1cea73fe39aab8d91611341d0b34b86d"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "70772341302a0955ec6c56a8b5ddc1112d3ca256d123677c2b44aadea9157eb6"
 metafile = true

@@ -1,8 +1,8 @@
 name = "Evenements"
-filename = "evenements-1.0.0.jar"
+filename = "evenements-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/evenements-1.0.0.jar"
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/evenements-1.1.0.jar"
 hash-format = "sha256"
-hash = "06487e6cfb6bde2c24e6537bacdb59cdaaef8cd114ce7b3878d54a67e9f6cdb0"
+hash = "38ad2aeee537fa559b7f9ec9f89b076a5bdccf7640fd7ecf43e7f072ed1cf6dd"

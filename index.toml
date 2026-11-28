@@ -46,6 +46,11 @@ hash = "dfaccbb721877831e705b8858e8f4420e008fd6fdf4c8f404f785f18f233be26"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "70772341302a0955ec6c56a8b5ddc1112d3ca256d123677c2b44aadea9157eb6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
@@ -71,8 +76,18 @@ hash = "dad3f58230c63e8ca85338bb53388b6308ca1bcceafeca5c1e357811d847bde6"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "e05b5dce6d8d60dc30da7bf8983016ffdaa629bdad02869a3d1ae5267be3a96f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "4214d1203f0db3a9206c4140f057fb2d4feff282d43efcfe1fb4240fc6b8c2f0"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "95511caa7146acccaf5b7f47760ee9306949adbbdf3df7c1a1ae63d6d2414f69"
 metafile = true
 
 [[files]]

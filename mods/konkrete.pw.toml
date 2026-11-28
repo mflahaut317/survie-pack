@@ -1,0 +1,13 @@
+name = "Konkrete"
+filename = "konkrete_neoforge_1.11.1_MC_26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/LHlMMPu1/konkrete_neoforge_1.11.1_MC_26.3.jar"
+hash-format = "sha512"
+hash = "067e84f44f48da1773e0885b76d1b35efeba09e9a9642b6f43e4cfab241b1a63adbf785e866e49ee17bdea850294320ff9abfb74511dbd39349ad136761bc673"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "LHlMMPu1"

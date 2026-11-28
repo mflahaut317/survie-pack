@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/evenements.pw.toml"
-hash = "ed18b3c99498d63ef1bc97b671b04875f46704ea665d241ad266d768d73b8d62"
+hash = "d15f2a5df136add0af7a844bc9d733686db037afb2d9edb5cabb9591d85d8875"
 metafile = true
 
 [[files]]

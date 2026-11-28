@@ -91,6 +91,11 @@ hash = "44486135ddafb72186376f42ab79ebf15ad81a6254baea99247aa88c4baf887d"
 metafile = true
 
 [[files]]
+file = "mods/pixelpotes.pw.toml"
+hash = "4af064783451019b16a0fd4ac71cfe17b411b8579fab32a48ddae007dddac2a9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8dcbea441be0ced7185839d9f0b12425bf503fd7631a7ddee5b45473dc958aff"
 metafile = true

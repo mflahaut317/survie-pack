@@ -1,8 +1,8 @@
 name = "PixelPotes"
-filename = "pixelpotes-1.1.0.jar"
+filename = "pixelpotes-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/pixelpotes-1.1.0.jar"
+url = "https://github.com/mflahaut317/Mod-Chantier/releases/download/dernier/pixelpotes-1.2.0.jar"
 hash-format = "sha256"
-hash = "51df98f106507c2ef931fb954daa8fbb0f4f668ff5e767396ab14ddb7e4c65d1"
+hash = "af24b92c3c360572288ac875b268e99ec085107307083f870522e5b543c3bc82"
